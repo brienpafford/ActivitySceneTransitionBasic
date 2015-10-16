@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/classes-4a1add1181f06083711d1e01577ebfd2f55a77a8.jar" />
+    </item>
+    <item
+        jar="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-871f29aa0e391dde49d6906ce024bf5ac9921978.jar" />
+    </item>
+    <item
+        jar="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/classes-e1b64f2ad88f7e0344c3112c575ca8f619d644a5.jar" />
+    </item>
+    <item
+        jar="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-25df90782114c553c0c40ce896ad861e05051801.jar" />
+    </item>
+    <item
+        jar="/Users/brienpafford/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/picasso-2.4.0-872342ea63a46b5d1f56dbb2e607e7c846c1dc1a.jar" />
+    </item>
+    <item
+        jar="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/classes-50ca3e2f329298900c8535bf168871185fe9c01d.jar" />
+    </item>
+    <item
+        jar="/Users/brienpafford/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/workspace/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-41036285e817334e454821fa6a2ed5bc0acc6439.jar" />
+    </item>
+
+</items>
